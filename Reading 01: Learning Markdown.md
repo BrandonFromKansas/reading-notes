@@ -5,7 +5,7 @@
 
 ## Why do we use markdown?
 - Markdown has been described as *future-proof*. Meaning that even if the application you're using to write a markdown-formatted text stops working or becomes obsolete, the formatted text will still be readable. Markdown does not require any specially licensed program in order to write or read it.
-- Markdown-formatted text is also easily portable since and can be created on any device using any operating system. 
+- Markdown-formatted text- is also easily portable since and can be created on any device using any operating system. 
 
 ## What symbol will create a heading in Markdown?
 - The pound symbol "**#**" can be used to create a main heading. One pound symbol will denote the biggest possible heading for a Markdown-formatted document.
@@ -17,4 +17,10 @@
 
 ## Creating a hyperlink with Markdown.
 To create a hyperlink, bookend the site's link text in square brackets [ESPN] and follow it immediately with the actual URL in parenthesis (https://www.espn.com/)
-Example: Head over now to [ESPN](https://www.espn.com/)
+Example: Head over now to [ESPN.](https://www.espn.com/)
+
+## Unordered Bullet Lists
+The three symbols that can be used to denote an unordered bullet list are:
+- "-"
+- "*"
+- "+"
