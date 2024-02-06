@@ -19,7 +19,7 @@
   - this will tell you how many and which files are set to be added and/or deleted.
 
 ### What is the command to take a snapshot of your changed files?
--
+- _git commit -a_
 
 ### What is the command to send your changed files to Github?
--
+- _git push origin master_
