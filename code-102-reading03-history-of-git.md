@@ -22,4 +22,4 @@
 - _git commit -a_
 
 ### What is the command to send your changed files to Github?
-- _git push origin master_
+- _git push origin main_
