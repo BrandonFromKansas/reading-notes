@@ -14,3 +14,7 @@
 ## When making text bold or italicized for emphasis, it is best practice to use an asterisk "*".
 - Adding two asterisks at the beginning and end of a word or phrase will bolden it. 
 - Adding one asterisk at the beginning and end of a word or phrase will italicize it.
+
+## Creating a hyperlink with Markdown.
+To create a hyperlink, bookend the site's link text in square brackets [ESPN] and follow it immediately with the actual URL in parenthesis (https://www.espn.com/)
+Example: Head over now to [ESPN](https://www.espn.com/)
