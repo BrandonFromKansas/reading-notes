@@ -11,9 +11,9 @@
 ## Table of Contents
 
 ### Class 102 Notes
-- [Class 01 Link](./code-102/code-102-reading01-learning-markdown.md)
-- [Class 02 Link](./code-102/code-102-reading02-the-coders-computer.md)
-- [Class 03 Link](./code-102/code-102-reading03-history-of-git.md)
+- [Class 01 Link](./code-102/code-102-reading01-learning-markdown.md) Learning Markdown
+- [Class 02 Link](./code-102/code-102-reading02-the-coders-computer.md) The Coder's Computer
+- [Class 03 Link](./code-102/code-102-reading03-history-of-git.md) History of Git
 - [Class 04 Link]()
 - [Class 05 Link]()
 - [Class 06 Link]()
@@ -23,8 +23,24 @@
 
 
 ### Class 201 Notes
-
+- [Class 01 Link]()
+- [Class 02 Link]()
+- [Class 03 Link]()
+- [Class 04 Link]()
+- [Class 05 Link]()
+- [Class 06 Link]()
+- [Class 07 Link]()
+- [Class 08 Link]()
+- [Class 09 Link]()
+- [Class 10 Link]()
+- [Class 11 Link]()
+- [Class 12 Link]()
+- [Class 13 Link]()
+- [Class 14 Link]()
+- [Class 15 Link]()
 
 
 ### Class 301 Notes
+
+
 ### Class 401 Notes
