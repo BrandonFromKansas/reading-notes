@@ -12,8 +12,11 @@
 
 
 ### Write an example of a CSS rule that would give all < p > elements red text.
--
+p {
+    color: red;
+}
 
 
 ## References
 - [What is CSS?](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+- [CSS Color Property](https://www.w3schools.com/cssref/pr_text_color.php): Adding colors to CSS
