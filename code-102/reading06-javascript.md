@@ -8,7 +8,10 @@
 - The user is "defining" or "declaring" a name storage location where data values will be stored. 
 
 ### What is an "assignment" operator, and what does it do?
--
+- For JavaScript, the equal sign ( **=** ) is an assignment operator, **NOT** an "equal to" operator.
+- The "equal to" operator is written like **==** (a double equal sign)
 
 ### What is information received from the user called?
--
+- Input
+
+
