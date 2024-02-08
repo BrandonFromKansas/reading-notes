@@ -15,7 +15,7 @@
 - [Class 02 Link](./code-102/code-102-reading02-the-coders-computer.md) The Coder's Computer
 - [Class 03 Link](./code-102/code-102-reading03-history-of-git.md) History of Git
 - [Class 04 Link](./code-102/reading04-structure-webpages-with-html.md) Structure Web Pages with HTML
-- [Class 05 Link]()
+- [Class 05 Link](./code-102/reading05-what-is-css.md)
 - [Class 06 Link]()
 - [Class 07 Link]()
 - [Class 08 Link]()
