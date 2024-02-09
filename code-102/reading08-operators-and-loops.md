@@ -10,12 +10,8 @@
 - [Loops and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#while_statement)
 
 ### 3. When does a *for* loop stop executing?
-- Example of a *for* statement:
- >for (initialization; condition; afterthought)
- statement
- - In this example........
-
+- a *for* loop repeats until a specified condition evaluates to false. 
 
 ### 4. How many times will a *while* loop execute?
-- 
+- a *while* statement will continue to execute its statements as long as a specified condition evaluates to *true*.
 
