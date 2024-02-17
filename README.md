@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-### Class 102 Notes
+## Class 102 Notes - Intro to Software Development
 - [Class 01 Link](./code-102/code-102-reading01-learning-markdown.md) Learning Markdown
 - [Class 02 Link](./code-102/code-102-reading02-the-coders-computer.md) The Coder's Computer
 - [Class 03 Link](./code-102/code-102-reading03-history-of-git.md) History of Git
@@ -22,7 +22,7 @@
 
 
 
-### Class 201 Notes
+## Class 201 Notes - Foundations of Software Development
 - [Class 01 Link]()
 - [Class 02 Link]()
 - [Class 03 Link]()
@@ -40,7 +40,7 @@
 - [Class 15 Link]()
 
 
-### Class 301 Notes
+## Class 301 Notes - Intermediate Software Development
 
 
-### Class 401 Notes
+## Class 401 Notes - Advanced Software Development
