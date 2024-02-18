@@ -10,6 +10,10 @@
 
 ## Table of Contents
 
+## AI and Prompt Engineering
+- [prompt-engineering.md](./code-201/prompt-engineering.md)
+
+
 ## Class 102 Notes - Intro to Software Development
 - [Class 01 Link](./code-102/code-102-reading01-learning-markdown.md) Learning Markdown
 - [Class 02 Link](./code-102/code-102-reading02-the-coders-computer.md) The Coder's Computer
