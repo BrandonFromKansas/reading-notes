@@ -27,31 +27,41 @@ let thisNumber = 10;
 
 
 #### 5. What is a Variable and why are they important in JavaScript?
+- Variables are containers that store values. A user begins by declaring a variable with the 'let' keyword, followed by the chosen name for said variable.
+- Variables are necessary in order to do anything interesting in programming. If values couldn't change, then developers couldn't do anything dynamic; like personalize a greeting message.
+- See: [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 
 
 ## Introduction to HTML
-1. What is an HTML attribute?
+#### 1. What is an HTML attribute?
+- Attributes contain extra information about an HTML element that will not appear in the rendered content.
+- An attribute should have:
+    * A space between it and the element name.
+    * The attribute name, followed by an equal sign.
+    * An attribute value, wrapped with opening and closing quote marks.
 
 
 
-1. Describe the Anatomy of an HTMl element.
+#### 2. Describe the Anatomy of an HTMl element.
+- The opening tag: Consists of the element name. This tag marks where the element begins to take effect.
+The content: This contains the content of the element.
+The closing tag: This is the same as the opening tag, exept that this tag includes a forward slash before the element name. This indicated where the element ends. Failing to close tags is often a commone beginner mistake.
+
+
+#### 3. What is the Difference between <article> and <section> element tags?
+- 
+
+
+#### 4. What Elements does a “typical” website include?
 
 
 
-1. What is the Difference between <article> and <section> element tags?
+#### 5. How does metadata influence Search Engine Optimization?
 
 
 
-1. What Elements does a “typical” website include?
-
-
-
-1. How does metadata influence Search Engine Optimization?
-
-
-
-1. How is the <meta> HTML tag used when specifying metadata?
+#### 6. How is the <meta> HTML tag used when specifying metadata?
 
 
 
