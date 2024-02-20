@@ -1,6 +1,3 @@
-THIS IS AN IMPORTANT TOPIC TO COVER BECAUSE...
-
-
 # Introduction to HTML (continuted)
 [HTML Text Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
 [HTML Advanced Text Formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting)
@@ -72,3 +69,25 @@ Add two **numbers** together or combine two **strings**.
 
 ### 3. Describe a real world Problem you could solve with a Function.
 - Picking up after my dogs in the backyard. For every piece of "mess", place into plastic bag. Then, take plastic bag to dumpster and dispose.
+
+
+# Conditionals - Making Decisions in Your Code
+See: [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
+1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+    * **condition**
+    * **return True or False**
+
+2. What is the use of an " else if "?
+- " else if " statements are used to offer more than just two choices/outcomes.
+
+
+3. List 3 different types of comparison operators.
+![Comparison Opertors](./assets/Comparison%20operators.png)
+
+4. What is the difference between the logical operator ( && ) and ( || )?
+- && - AND; allows a developer to chain together two or more expressions so that **all** of them have to **individually** evaluate to "true" in order for the whole expression to return "true".
+- || - OR; allows a developer to chain together two or more expressions so that **one** *or* **more** of them have to individually evaluate to "true" for the whole expression to return "true".
+
+
+## Things I want to know more about
+1. In which instances is it benefical to use the <*abbr*> element?
