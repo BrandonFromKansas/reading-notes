@@ -28,7 +28,7 @@
 
 ## Class 201 Notes - Foundations of Software Development
 - [Class 01 Link](./code-201/class-01.md) How the Web Works & Introduction to HTML.
-- [Class 02 Link]()
+- [Class 02 Link](./code-201/class02-html-css-js-basics.md) HTML, CSS, JavaScript Basics
 - [Class 03 Link]()
 - [Class 04 Link]()
 - [Class 05 Link]()
