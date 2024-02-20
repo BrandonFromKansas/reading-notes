@@ -24,3 +24,51 @@ THIS IS AN IMPORTANT TOPIC TO COVER BECAUSE...
 - The *abbr* is used to wrap around an abbreviation OR an acronym.
 - For either one of these instances:
     * Be sure to provide a full expansion of the term in plain text on first use, along with the <*abbr*> to mark up the abbreviation or acronym.
+
+
+# Learn CSS
+### 1. What are ways we can apply CSS to our HTML?
+- 1 - External sylesheets. This is a separate file with a .css extension. It is the most commond and useful way to apply CSS to a document. A single CSS file can be linked to multiple web pages.
+
+- 2 - Internal stylesheets. These are contained **within** an HTML document. To achieve this, the developer places CSS inside of a <*style*> element contained inside the HTML <*head*>.
+
+- 3 - Inline styles. These affect a single HTML element, contained within a *style* attribute
+
+### 2. Why should we avoid using inline styles?
+- It is actually considered NOT a best practice.
+- It is the least efficient way to implement CSS when it comes to maintenance. One single styling change may require multiple edits within a single page.
+- Inline styling mixes CSS (presentational code) with HTML and content, this makes everything more difficult to read, decipher and understand.
+
+### 3. Review the block of code below and answer the following questions:
+- What is representing the selector?
+    * **h2**
+
+- Which components are the CSS declarations?
+    * **color** and **padding**
+
+- Which components are considered properties?
+    * **black** and **5px**
+
+
+# Learn JavaScript
+[JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+### 1. What data type is a sequence of text enclosed in single quote marks?
+- Single quote marks ( **'** ) turn *numbers* into *strings*
+![Single Quote Marks](./assets/Single%20quote%20-%20numbers%20vs%20strings.png)
+
+
+### 2. List 4 types of JavaScript operators.
+- 1. Strict equality ( === )
+This performs a test to see if two values are equal and of the **same** data **type**. It will return a true/false (Boolean) result.
+- 2. Assignment ( = )
+This will assign a value to a variable.
+Example: let myVariable = 'Bobbi'; 
+- 3. Addition ( + )
+Add two **numbers** together or combine two **strings**.
+![Addition Operator](./assets/JavaScript%20Operator%20-%20Addition.png)
+
+- 4. Subtraction ( - ), Multiplication ( * ), Division ( / ).
+
+
+### 3. Describe a real world Problem you could solve with a Function.
+- Picking up after my dogs in the backyard. For every piece of "mess", place into plastic bag. Then, take plastic bag to dumpster and dispose.
