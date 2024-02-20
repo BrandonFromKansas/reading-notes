@@ -37,6 +37,7 @@
 - Inline styling mixes CSS (presentational code) with HTML and content, this makes everything more difficult to read, decipher and understand.
 
 ### 3. Review the block of code below and answer the following questions:
+![Block of code](./assets/Analyze%20this%20block%20of%20code.png)
 - What is representing the selector?
     * **h2**
 
