@@ -1,5 +1,7 @@
 # HTML Lists, JavaScript Control Flow, and the CSS Box Model
 
+There are three different skill sets that we are learning all at ONE time. Three different skills being taught all at once means there will be a ton of information coming our way. Knowing how each one interracts with each other is important and can be a source of frustration for beginners. I am still trying to get comfortable with how JavaScript syntax is put together but also why it is structured the way it is. I feel like that is something I will need to do outside of class and class work so having these reference documents readily on-hand is huge for me.
+
 ## Learn HTML
 #### [Ordered](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) and [Unordered Lists](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
 1. When should you use an `unordered list` ( `<ul>` ) in your HTML document?
@@ -31,6 +33,10 @@
 ## Learn CSS
 #### [The Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?
+**The Box Model**:
+In the kingdom of Boxy, ruled by Boximus Maximus, there sat a great big castle. Boximus was not a man for the people and he wanted as much space between himself and them as possible. He called upon his contractor, Marginally Okay Mephisto, to build him a moat around the castle so that no subjects could enter. 
+King Boximus also wanted as much cushion between the moat and his castle walls so he called upon his trusted landscaper, Paddington Paddleboat, to fill up as much space between the castle and the inner border of the moat. Hundreds of trees and thousands of bushes were brought in and when all was said and done, there was only about 3px between the shrubbery and the castle wall.
+The end.
 
 
 2. List and describe the **four** parts of an HTML elements box as referred to by the `box model`.
