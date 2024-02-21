@@ -83,4 +83,5 @@ The end.
 
 
 ### Things I Want to Know More About
-- 
+- Syntax structuring for JavaScript.
+- When to use certain methods over others.
