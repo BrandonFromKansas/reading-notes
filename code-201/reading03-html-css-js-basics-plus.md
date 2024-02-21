@@ -34,25 +34,47 @@
 
 
 2. List and describe the **four** parts of an HTML elements box as referred to by the `box model`.
-![]
+![Four Parts](./assets/fourPartsOfCSSBoxModel.png)
+*Credit: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
 
 ## Learn JavaScript
 #### [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays), [Operators & Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators), [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals), and [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 
-1. What *data types* can you store inside of an **Array**?
-- 
+1. What `data types` can you store inside of an `Array`?
+- Strings
+- Numbers
+- Objects
+- Other arrays
 
 2. Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?
-
+- Yes, arrays can have mixed data *types*. Developers do not have to limit themselves to storing just numbers in one array and then storing only strings in another.
+- To access the values of this string:
+  * console.log(people);
 
 3. List five shorthand operators for assignment in javascript and describe what they do.
--
+- **Addition** assignment: x += f( ) which is equivalent to  x = x  f( ). This adds the value on the right to the variable's current value and assigns the result to the variable.
+- **Subtraction** assignment:  x -= f( ) which is equivalent to x = x - f( ). This subtracts the value on the right from the variable's current value and assigns the result to that variable.
+- **Multiplication** assignment: x *= f( ) which is equivalent to x = x * f( ). Multiplies the variables current value by the value on the right and assigns the result to the variable.
+- **Division** assignment: x /= f( ) which is equivalent to x = x / f( ). Divides the variable's current value by the value on the right and assigns the result to the variable.
+- **Remainder** assignment: x %= f( ) which is equivalent to x = x % f( ). Divides the variable's current value by the value on the right and assigns the *remainder* to the variable.
+
+**Credit**: ChatGPT. "Show me shorthand examples and explanations for each of these assignment operators: Addition, Subtraction, Multiplication, Division and Remainder." OpenAI, 2024. https://openai.com/chatgpt/.
+
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 ![code below](./assets/codeEvalReading03.png)
-- 
+- (10 + false) + dog
+- 10 + false essentially equates to: 10 + 0 [this is because the computer reads 10 + Boolean, which converts to 10 + 0, resulting in just the number 10]
+- Now the expression is 10 + dog. Adding a number (10) to a string (dog); the computer concactenates them and the result is: 10dog. The number 10 gets turned into a string.
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
--
+- I had recently looked into building my own PC and there are several websites that will help with picking out the right components. The user enters which parts of the PC they would like to assemble and the website will show whether or not all the pieces will work together. 
+- It checks to make sure that you are not tyring to buy and use incompatible equipment.
 
 6. Give an example of when a `Loop` is useful in JavaScript.
+- When adding up all the numbers listed in an array.
+- A developer would have the for loop iterate over each element in an array with *numbers*, adding each one to the next until there are no more numbers to add and that is when the *sum* is calculated.
+
+
+### Things I Want to Know More About
+- 
