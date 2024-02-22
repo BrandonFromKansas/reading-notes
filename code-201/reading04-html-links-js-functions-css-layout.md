@@ -1,5 +1,7 @@
 # HTML Links. JavaScript Functions. Intro to CSS Layout
 
+I was excited to read "6 Reasons for Pair Programming". I have been surpried with how willing everyone in class, and the industry as a whole from what little I've seen, has been to collaborate with one another. We are all coming in with different backgrounds/skillsets and I am experiencing, firsthand, how beneficial open and judgement-free collaboration is. If this is what most of the software development industry is striving for, then I know that I chose a great field to work and grow in. 
+
 ## Learn HTML
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 #### 1. To create a basic link, we wrap text or other content inside what element?
@@ -64,3 +66,5 @@
   * A friend of mine who is actually a software developer now started his tech journey at a startup company working a recruiter. He said that he was lucky and was able to get some inside knowledge of how the whole job interview process goes for someone in the tech industry. It was also in that positon that he learned the importance of keeping a professional appearance on his LinkedIn page (and all other social media accouts). Even with the inside knowledge, he said that is can be a tough industry to break into but with proper guidance and practice, a developer can be more than well prepared for when that time comes. It was honestly one of the biggest reasons that I chose Code Fellows and I need to keep that in mind when working on the coaching assignents.
 
 
+## Things I Want to Know More About
+- When I have my Coaching Career meeting on Friday, I want to specifically ask about how his collaboration experience has been while working in the industry. 
