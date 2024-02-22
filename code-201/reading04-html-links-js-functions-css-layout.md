@@ -47,12 +47,20 @@
 - A function invokation is calling a function that has already been declared.
 
 #### 2. What is the difference between a parameter and an argument?
+- As per [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions#function_parameters): see image below.
+
+![Parameters and Arguments](./assets/parametersAndArguments.png)
 
 
 
 ## Miscellaneous
 [6 Reasons for Pair Programming]()
 #### 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+- Learning from fellow students:
+  * I have always enjoyed working in teams/pairs. I have always worked best with others who are freely willing to share their knowledge amongst their peers. In this class alone, I don't think I could have submitted my last lab without my classmates' help. Also, teaching other people about new concetps/ideas is a great way for a developer to practice their mentoring skills. This industry can be intimidating to someone like myself who has little-to-no experience in tech. Having strong mentors with great collaboration skill will be huge in continuing to recruit people into this field. I would love to get enough experience in this field so that when the time comes, I can teach this to people who are in my position now.
 
+
+- Job Interview Readiness:
+  * A friend of mine who is actually a software developer now started his tech journey at a startup company working a recruiter. He said that he was lucky and was able to get some inside knowledge of how the whole job interview process goes for someone in the tech industry. It was also in that positon that he learned the importance of keeping a professional appearance on his LinkedIn page (and all other social media accouts). Even with the inside knowledge, he said that is can be a tough industry to break into but with proper guidance and practice, a developer can be more than well prepared for when that time comes. It was honestly one of the biggest reasons that I chose Code Fellows and I need to keep that in mind when working on the coaching assignents.
 
 
