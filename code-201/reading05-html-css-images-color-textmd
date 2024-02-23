@@ -1,5 +1,7 @@
 # Images, Color, and Text
 
+Making sure that as many people as possible have access to the things we build and design is 100% part of our jobs. As developers, we should automatically want to make sure that the websites we work on, have high accessibility scores. It makes no sense to me to work and build something only to allow a select group of people to have access to it. As creators, we should want to share the work we do with as many people as possible. Not for recognition purposes but because building a web that is accessible by any and everyone should be the end goal, in my opinion.
+
 ## HTML Media
 [Using Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
 [Common Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types)
@@ -42,7 +44,8 @@
 - "The `color` property sets the color of the foreground content of the selected elements, which is usually the text, but can also include a couple of other things, such as an underline or overline placed on text using the `text-decoration` property." - According to [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
 
 #### 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
--
+- I would go over with him what kind of color palette or scheme he was looking for - making sure we picked colors that will allow any and all users to access and read his site.
+- Then I am creating a css stylesheet and would begin adding the colors we talked about until the site was colored the way he wanted it.
 
 #### 3. What should you consider when choosing fonts for an HTML document?
 - Availability. There are only a certain number of fonts that are widely available across all systems. These are the so-called **web safe fonts**
@@ -57,5 +60,8 @@
 - Or they could use the `word-spacing` property and affect the space between each word.
 
 
+## Things I Want to Know More About
+- [Color Blindness and Web Design](https://www.usability.gov/get-involved/blog/2010/02/color-blindness.html)
+- [Medline Plus: Color Blindness](https://medlineplus.gov/colorblindness.html)
 
 
