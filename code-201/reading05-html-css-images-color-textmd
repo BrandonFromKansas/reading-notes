@@ -6,19 +6,31 @@
 [Choosing Image Formats](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#choosing_an_image_format)
 
 #### 1. What is a real world use case for the `alt` attribute being used in a website?
-- a
+- It is meant to be a textual description of the image being displayed. 
+- It is used for instances when the image cannot be seen/displayed or if the image is taking longer to render due to a slower internet connection. 
+- `alt` text is useful for a number of reasons:
+  * A user is visually impaired and uses a screen reader. `alt` text is available to describe the image to these users. 
+  * Allows developers to include text for search engines to utilize. Which can hopefully lead to more site traffic.
+  * Some users turn images off in order to reduce data transfer volume and distractions (i.e. mobile phone users or in countries with limited or expensive bandwidth).
 
 #### 2. How can you improve accessibility of images in an HTML document?
-
+- A developer should keep in mind that captions and `alt` text have very distinct roles.
+- Captions benefit users who can see the image.
+- `alt` text provides the same funtionality as a broken/absent image. It should describe exactly what the image is of.
+- Captions and `alt` text should never just say the same thing.
 
 #### 3. Provide an example of when the `figure` element would be useful in an HTML document.
-
+- When a developer wants to add a caption to an image.
+- The `<figure>` and `<figcaption>` elements can be used to provide a semantic container for figures, and to clearly link the figure to the caption.
+- Assistive technology can also be used with the `<figure>` and `<figcaption>` elements.
 
 #### 4. Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.
-
+- A `gif` is like our generation's version of a flipbook. A bunch of images stacked on top of each other that give the illusion of motion by cycling through them over and over again. Ta-da!
+- A `svg` image is like a box that contains the recipe for how an image is supposed to be put together. Once the computer follows the recipe, the image is generated.
 
 #### 5. What image type would you use to display a screenshot on your website and why?
-
+- PNG because it has a more precise reproduction of the source images.
+- Even though WebP/AVIF provide better compression and reproduction but their browswer support is more limited at this time.
 
 
 ## Learn CSS
@@ -37,6 +49,7 @@
 #### 4. What do `font-size`, `font-weight`, and `font-style` do to HTML text elements?
 - 
 
+#### 5. Describe two ways you could add spacing around the characters displayed in an `h1` element.
 
 
 
