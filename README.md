@@ -31,7 +31,7 @@
 - [Class 02 Link](./code-201/class02-html-css-js-basics.md) HTML, CSS, JavaScript Basics
 - [Class 03 Link](./code-201/reading03-html-css-js-basics-plus.md) HTML Lists. CSS box model. JavaScript control flow.
 - [Class 04 Link](./code-201/reading04-html-links-js-functions-css-layout.md) HTML Links. JavaScript Functions. CSS Layout: Normal Flow and Positioning.
-- [Class 05 Link]()
+- [Class 05 Link](./code-201/reading05-html-css-images-color-textmd)
 - [Class 06 Link]()
 - [Class 07 Link]()
 - [Class 08 Link]()
