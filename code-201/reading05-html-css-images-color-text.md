@@ -32,7 +32,7 @@ Ensuring that as many people as possible have access to the things we build and 
 
 #### 5. What image type would you use to display a screenshot on your website and why?
 - PNG because it has a more precise reproduction of the source images.
-- Even though WebP/AVIF provide better compression and reproduction but their browswer support is more limited at this time.
+- Even though WebP/AVIF provide better compression and reproduction but their browser support is more limited at this time.
 
 
 ## Learn CSS
