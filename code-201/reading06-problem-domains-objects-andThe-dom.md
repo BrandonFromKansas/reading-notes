@@ -38,3 +38,8 @@
 ##### 2. Briefly describe the relationship between the DOM and JavaScript.
 - The DOM (Document Object Model) is a programming interface for web documents and it represents the structure of HTML documents (it provides a blueprint).
 - JavaScript can then manipulate the DOM by accessing groups of elements, or, even very specific elements. JavaScript can modify attributes, add or remove elements, and it responds to events which may be triggered by user interaction. JavaScript allows developers to create a dynamic experience for the users. Combined together, they serve as very powerful tools for "creating powerful and responsive web applications." * Credit: [ChatGPT](https://chat.openai.com/share/afd049fa-1414-4dd9-9d40-cc91b10223ec)
+
+
+## Things I Want to Know More About (added to weekend reading list)
+The Simple Programmer: [How to Solve Programming Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+Medium: [What's the Difference Between Primitive Values and Object References in JavaScript](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
