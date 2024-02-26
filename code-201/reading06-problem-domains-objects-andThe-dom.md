@@ -1,4 +1,4 @@
-# Problem Domain, Objects and the DOM (Document Object MOdel)
+# Problem Domain, Objects and the DOM (Document Object Model)
 
 ### [JavaScript: Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 
@@ -7,7 +7,7 @@
 
 ##### 2. What are some advantages to creating object literals?
 - It is far more efficient to send one piece of data altogether as opposed to sending one piece of code individually. 
-- Object literal: creates an object using a concise and straightforward syntax. It allows developers to define an object and its properties in a single exprssion, without the need for a separate constructor function.
+- Object literal: creates an object using a concise and straightforward syntax. It allows developers to define an object and its properties in a single expression, without the need for a separate constructor function.
 ![Definition of Object Literal](./code-201/assets/ChatCPT.ObjectLiteral.png)
 *Credit: [ChatGPT](https://chat.openai.com/share/bb4a1d3b-3f30-4716-953f-4dd1ce775ea5)
 
@@ -21,7 +21,7 @@
 - Example: if an object prperty name is stored in a variable, then the developer cannot use **dot notation** to access the value. They must access the value using **bracket notation**.
 
 ##### 5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
-![Evaluate this block of code for reading06](./code-201/assets/EvaluateThisBlockOfCodeReading06.png)
+![Evaluate this block of code for reading06](./assets/EvaluateThisBlockOfCodeReading06.png)
 
 - The use of `this.` allows `humanAge` to refer back to the *name* and *age* specific properties of the `const dog` object literal.
 - Using `this` allows a developer to dynamically target properties inside of the previously declared object literal.
