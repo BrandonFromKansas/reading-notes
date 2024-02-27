@@ -30,10 +30,10 @@
 - [Class 01 Link](./code-201/class-01.md) How the Web Works & Introduction to HTML.
 - [Class 02 Link](./code-201/class02-html-css-js-basics.md) HTML, CSS, JavaScript Basics
 - [Class 03 Link](./code-201/reading03-html-css-js-basics-plus.md) HTML Lists. CSS box model. JavaScript control flow.
-- [Class 04 Link](./code-201/reading04-html-links-js-functions-css-layout.md) HTML Links. JavaScript Functions. CSS Layout: Normal Flow and Positioning.
-- [Class 05 Link](./code-201/reading05-html-css-images-color-textmd)
-- [Class 06 Link](./code-201/reading06-problem-domains-objects-andThe-dom.md)
-- [Class 07 Link](./code-201/reading07-object-oriented-programming-html-programming.md)
+- [Class 04 Link](./code-201/reading04-html-links-js-functions-css-layout.md) HTML Links. JavaScript Functions. CSS Layout- Normal Flow and Positioning.
+- [Class 05 Link](./code-201/reading05-html-css-images-color-textmd) Images, Color, and Text.
+- [Class 06 Link](./code-201/reading06-problem-domains-objects-andThe-dom.md) Problem Domain, Objects, and the DOM (Document Object Model)
+- [Class 07 Link](./code-201/reading07-object-oriented-programming-html-programming.md) Object-Oriented Programming. HTML Programming.
 - [Class 08 Link]()
 - [Class 09 Link]()
 - [Class 10 Link]()
