@@ -33,7 +33,7 @@
 - [Class 04 Link](./code-201/reading04-html-links-js-functions-css-layout.md) HTML Links. JavaScript Functions. CSS Layout: Normal Flow and Positioning.
 - [Class 05 Link](./code-201/reading05-html-css-images-color-textmd)
 - [Class 06 Link](./code-201/reading06-problem-domains-objects-andThe-dom.md)
-- [Class 07 Link]()
+- [Class 07 Link](./code-201/reading07-object-oriented-programming-html-programming.md)
 - [Class 08 Link]()
 - [Class 09 Link]()
 - [Class 10 Link]()
