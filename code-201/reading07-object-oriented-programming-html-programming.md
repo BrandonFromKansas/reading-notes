@@ -30,3 +30,6 @@
 - We had to pour concrete from time to time when I worked construction. We didn't do it everyday but we did it enough that my foreman ended up making a table in Excel that had the width, length, and depth of each hole that needed done. he would also write in how many feet of form boards we woulde need, approximatley how many pieces of rebar we would need, and whether or not we could pour it by hand or if we needed to call a cement truck.
 - The Excel spreadsheet was just him putting in all of this information in for each location. It wasn't as if he was plugging these numbers in and then the spreadsheet was doing the math for him. He would type in the numbers, do the math, then write down the answer in the corresponding cell.
 - The table he drew up though could easily be turned into a functioning table where the user only has to type in the raw data and then have the resulting information calculated and displayed. He essentially created a nice prototype of the table. Someone could take that prototype and use it as the basis for creating an actual dynamic spreadsheet.
+
+## Things I Want to Know More About
+[HTML Table Advanced Features and Accessibility](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Advanced)
