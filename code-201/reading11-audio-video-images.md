@@ -26,23 +26,36 @@
 ### [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 #### 1. How does Grid layout differ from Flex?
--
+*Additional infomation provided by*: [ChatGPT](https://chat.openai.com/share/55de5b85-51e3-4ffd-a24f-84a4701aa997): CSS: How does Grid layout differ from Flex?
+- **Flexbox**:
+  * One-dimensional layout: lays items out in a single direction (horizontally or vertically). Best suited for laying out items in a row or column.
+  * Flexible: allows items within a container to grow or shrink to fill available space while maintaining their proportions.
+
+- **Grid**:
+  * Two-dimensional layout: allows a developer to create complex layouts by defining rows and columns (two-dimensional). Items can be positioned both horizontally and vertically.
+  * Explicitly defined: developers can specifically define rows and columns and then place items within those specified grid cells. This allows for more precise control over the layout.
+  * Alignment: items can be aligned along both the row and column axes, as well as withing individual grid cells.
 
 #### 2. Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
-- 
-
+- **Grid container**: It is the direct parent of all the grid items. The element on which `display: grid;` is applied.
+- **Grid item**: the child/children (i.e. *direct* descendants) of a **grid container**. 
+- **Grid line**: the dividing line(s) that make up the structure of the grid. These can be either vertical (column grid lines) or horizontal (row grid lines). 
 
 
 ### [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
 #### 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
--
+- Embedding large images is not neccessary when being viewed on smaller devices. Mobile users do not want to waste bandwidth downloading images that were actually intended to be viewed on a desktop/laptop screen. It is a waste.
 
 #### 2. Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used.
--
+- Using both the `srcset` and `sizes` attributes can provide several additional source images along with hints to help the browser pick the right one.
+- `srcset`: defines the set of images that the developer will allow the browser to choose between, and what size each image is. Each set of image information is separated from the previous one by a comma.
+- `sizes`: defines a set of media conditions (i.e. screen widths) and indicates what image size would be best to choose, when certain media conditions are true. 
 
 #### 3. How is `srcset` more helpful for responsive images than CSS or JavaScript?
-- 
+- Using CSS or JavaScript does not allow for dynamically changing source images. 
+- MDN Web Docs' summary of this issue is as follows:
+![MDN Web Docs: Why can't devs just do all of this using CSS or JS](./assets/11-ResponsiveImages.png)
 
 
 
