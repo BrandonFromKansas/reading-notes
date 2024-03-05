@@ -37,8 +37,8 @@
 - [Class 08 Link](./code-201/reading08-css-layout.md): CSS Layout
 - [Class 09 Link](./code-201/reading09-forms-and-js-events.md): Forms and JavaScript Events
 - [Class 10 Link](./code-201/reading10-debugging.md): Debugging
-- [Class 11 Link]():
-- [Class 12 Link]():
+- [Class 11 Link](./code-201/reading11-audio-video-images.md): Audio. Video. Images.
+- [Class 12 Link](./code-201/reading12-chart.js-canvas.md): Chart.js and Canvas (not Code Fellows related)
 - [Class 13 Link]():
 - [Class 14 Link]():
 - [Class 15 Link]():
