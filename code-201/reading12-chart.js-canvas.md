@@ -2,7 +2,7 @@
 
 
 ### [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
-#### 1. What does the `<canvas>` allow a developer to acheive?
+#### 1. What does the `<canvas>` allow a developer to achieve?
 - It is an HTML5 element that allows a developer to draw 2D graphics using JavaScript.
 - The `<canvas>` element requires at least two attributes that specify the size of the canvas. These would be `width` and `height`.
 - A developer can access the `width` and `height` properties of the `<canvas>` element via its DOM properties.
