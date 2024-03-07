@@ -40,7 +40,7 @@
 - [Class 11 Link](./code-201/reading11-audio-video-images.md): Audio. Video. Images.
 - [Class 12 Link](./code-201/reading12-chart.js-canvas.md): Chart.js and Canvas (not the Code Fellows LMS)
 - [Class 13 Link](./code-201/reading13-local-storage-usage-on-websites.md): Local Storeage and How to Use it on Websites
-- [Class 14 Link]():
+- [Class 14 Link](./code-201/reading14-css-transitions-and-animations.md): CSS Transforms. CSS Transitions & Animations. 8 CSS3 Transitions that will WOW users.
 - [Class 15 Link]():
 
 
