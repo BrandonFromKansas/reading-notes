@@ -41,6 +41,7 @@
 - [Class 12 Link](./code-201/reading12-chart.js-canvas.md): Chart.js and Canvas (not the Code Fellows LMS)
 - [Class 13 Link](./code-201/reading13-local-storage-usage-on-websites.md): Local Storeage and How to Use it on Websites
 - [Class 14 Link](./code-201/reading14-css-transitions-and-animations.md): CSS Transforms. CSS Transitions & Animations. 8 CSS3 Transitions that will WOW users.
+- [Class 14: Psychological Safety](./code-201/reading14.5-psychological-safety): Psychological Safety in the Workplace
 - [Class 15 Link]():
 
 

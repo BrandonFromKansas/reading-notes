@@ -1,0 +1,17 @@
+# What Google Learned from its Quest to Build the Perfect Team
+
+### Discussion Questions
+
+#### 1. What are three key factors that contribute to psychologically safe teams?
+- "equality in distribution of conversational turn-taking"
+- "average social sensitivity" or: these people are skilled at intuiting how others felt based on their tone of voice, facial expressions and other nonverbal cues.
+- encouraging emotional conversations and discussions of norms.
+
+#### 2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
+- My last job was in the construction industry. Specifically, working on residential and business natural gas pipelines/service lines. Part of the training requires laborers and relight technicians to be safety certified every 12 months, not to exceed 16 months. So we were essentially allowed a year and four months before our certifications expired. Between tyring to hit weekly, monthly, and yearly numbers, our supervisor completely disregarded the fact that we needed to PRACTICE these safety techniques and procedures BEFORE being sent in to test. If we went and failed our safety tests, we had to wait a week before going back to re-test. Our supervisor was not a smart man and he would put off letting us go over the material and actually putting our hands on the equipment until two or three days away from our test date.
+- This caused a lot of the guys, especially new hires, to stress out because if our supervisor got word that someone did not pass, he would blow a gasket. He actually made the comment one day of how he can't believe how many guys weren't passing their tests. There was a group of us who had been there for about two years and we finally called him out on it. We just stood there and someone asked him how he expects people to pass a test when they're not even allowed to practice the material until two days before testing. His response was, "Well you guys see these things done in the field. Are they not paying attention or are you guys not training the new hires correctly?"
+- The certifications he was referring to, specifically at that time, were instances that we did not come up against all that often in the field. These were things that we needed to know how to do in CASE we did run in to them. He was making it sound as if we did these things everyday when in reality, we would come up against them maybe a few times a year. Giving people two days to cram information, while not being able to actually put hands on the equipment, and then getting pissed off because someone failed was completely ludacris to me. He was one of the reasons I was so eager to leave the industry. There were just too many people like him and I was fed up.
+
+
+#### 3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
+- Some of the best exapmles they shared were of teams that, from the outside, may seem like weaker performers where skill sets are concerned. However, because the group blended together so well, their work was better than teams who consisted of all highly skilled members. Teams comprised of members who are not in fear of being judged or ridiculed can focus on just going good work which will, in turn, boost company numbers. This is something I wish would impact the construction industry but it feels like that would be a long way off from happening.
