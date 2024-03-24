@@ -43,10 +43,24 @@ This is a collection of notes from my Code Fellows software development curricul
 - [Class 13 Link](./code-201/reading13-local-storage-usage-on-websites.md): Local Storeage and How to Use it on Websites
 - [Class 14 Link](./code-201/reading14-css-transitions-and-animations.md): CSS Transforms. CSS Transitions & Animations. 8 CSS3 Transitions that will WOW users.
 - [Class 14: Psychological Safety](./code-201/reading14.5-psychological-safety): Psychological Safety in the Workplace
-- [Class 15 Link]():
 
 
 ## Class 301 Notes - Intermediate Software Development
+- [Class 01 Link](./code-301/reading01-introduction-react-and-components.md): Introduction to React and Components
+- [Class 02 Link]()
+- [Class 03 Link]()
+- [Class 04 Link]()
+- [Class 05 Link]()
+- [Class 06 Link]()
+- [Class 07 Link]()
+- [Class 08 Link]()
+- [Class 09 Link]()
+- [Class 10 Link]()
+- [Class 11 Link]()
+- [Class 12 Link]()
+- [Class 13 Link]()
+- [Class 14 Link]()
+- [Class 15 Link]()
 
 
 ## Class 401 Notes - Advanced Software Development
