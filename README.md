@@ -1,4 +1,5 @@
 # Reading Notes
+This is a collection of notes from my Code Fellows software development curriculum.
 # Growth Mindset
 - A growth mindset is the belief that anyone can learn new and/or improve their abilities through discipline, learning, practice and application.
 
