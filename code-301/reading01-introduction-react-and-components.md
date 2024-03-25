@@ -8,7 +8,7 @@
 ![Expanded definition of "component"](./assets/01-components.png)
 
 #### 2. What are the characteristics of a component?
-- **Reusability**: Componnets are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
+- **Reusability**: Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 - **Replaceable**: Components may be freely substituted with other similar components.
 - **Not context specific**: Components are designed to operate in different environments and contexts.
 - **Extensible**: A component can be extended from existing components to provide new behavior.
@@ -25,4 +25,18 @@
 - Properties
 
 #### 2. How are props used in React?
-- 
+- Props are passed into a component similar to how attributes work in HTML elements.
+- When sending props (which are also properties and can be likened to attributes), you attach your values to them.
+- There is a slight difference between writing HTML attributes and passing in props. HTML attributes are special keywords already provided to the developer. In React, a developer can customize and define their own props.
+
+#### 3. What is the flow of props?
+- Since React uses a one-way data flow, any data that is transferred can only be from the parent component to the child components.
+- Data flow will NEVER be passed from child components to parent components.
+- Note: data passed from the parent CANNOT be changed by the child component.
+
+## Things I Need to Know More About
+- [React Tutorial through ‘Passing Data Through Props’](https://react.dev/learn/tutorial-tic-tac-toe)
+- [React Docs - Hello world](https://legacy.reactjs.org/docs/hello-world.html)
+- [React Docs - Introducing JSX](https://legacy.reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering elements](https://legacy.reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and props](https://legacy.reactjs.org/docs/components-and-props.html)
