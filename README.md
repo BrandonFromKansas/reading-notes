@@ -47,7 +47,7 @@ This is a collection of notes from my Code Fellows software development curricul
 
 ## Class 301 Notes - Intermediate Software Development
 - [Class 01 Link](./code-301/reading01-introduction-react-and-components.md): Introduction to React and Components
-- [Class 02 Link]()
+- [Class 02 Link](./code-301/reading02-state-and-props.md)
 - [Class 03 Link]()
 - [Class 04 Link]()
 - [Class 05 Link]()
